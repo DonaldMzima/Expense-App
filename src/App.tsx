@@ -6,6 +6,11 @@ const App = () => {
     <div>
       <h1>Alraedy started!</h1>
       <ExpenseItem></ExpenseItem>
+      <ExpenseItem></ExpenseItem>
+      <ExpenseItem></ExpenseItem>
+      <ExpenseItem></ExpenseItem>
+      <ExpenseItem></ExpenseItem>
+      <ExpenseItem></ExpenseItem>
     </div>
   )
 }
