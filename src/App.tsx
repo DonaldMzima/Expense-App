@@ -1,10 +1,11 @@
 import React from 'react'
+import ExpenseItem from './components/expenseItem'
 
 const App = () => {
   return (
     <div>
       <h1>Alraedy started!</h1>
-      <p>Lets keep going</p>
+      <ExpenseItem></ExpenseItem>
     </div>
   )
 }
