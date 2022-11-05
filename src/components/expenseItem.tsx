@@ -1,9 +1,8 @@
 import React from 'react'
 import './ExpenseItem.css'
 
-
 const ExpenseItem = (props: {
-  date: any
+  date: Date
 
   title: string
 
