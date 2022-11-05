@@ -3,10 +3,10 @@ import ExpenseItem from './components/expenseItem'
 
 const App = () => {
   const expenses = [
-    { title: 'Toilet Paper', amount: 25000, date: new Date(2022, 11, 1) },
-    { title: 'New Tv', amount: 25000, date: new Date(2022, 11, 1) },
-    { title: 'insurance', amount: 25000, date: new Date(2022, 11, 1) },
-    { title: 'New Desk (wooden)', amount: 25000, date: new Date(2022, 11, 1) },
+    { title: 'Toilet Paper', amount: 25.0, date: new Date(2022, 11, 1) },
+    { title: 'New Tv', amount: 2490.99, date: new Date(2022, 11, 1) },
+    { title: 'insurance', amount: 249.99, date: new Date(2022, 11, 1) },
+    { title: 'New Desk (wooden)', amount: 300.99, date: new Date(2022, 11, 1) },
   ]
 
   return (
